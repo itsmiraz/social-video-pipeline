@@ -49,3 +49,4 @@ Response:
 ## Notes
 - You must have ffmpeg installed and set `FFMPEG_PATH`.
 - If your S3 bucket is private, your CDN (AWS_CDN_BASE_URL) should point to CloudFront with access.
+-
